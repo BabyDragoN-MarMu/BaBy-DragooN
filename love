@@ -1,0 +1,3 @@
+print ('\33[32;1m')
+    os.system ('figlet -f big ALL-IN-1')
+
